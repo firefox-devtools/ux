@@ -1,3 +1,3 @@
-# ux
+# Contributing to Firefox DevTools UX
 
-Testing
+https://goo.gl/APdnBK
