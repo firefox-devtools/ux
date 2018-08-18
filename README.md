@@ -1,6 +1,6 @@
 # Contributing to Firefox DevTools UX
 
-Welcome! Thank you for your interest in contributing to DevTools UX! Our team only recently started working with design contributors, so things may be a bit disorganized initially. I’m happy to hear any feedback or ideas on improving the onboarding process. This doc will soon be replaced by a better-looking page on [github](https://github.com/devtools-html/). - [Victoria](mailto:victoria@mozilla.com) 
+Welcome, and thank you for your interest in contributing to DevTools UX! Our team only recently started working with design contributors, so things may be a bit disorganized initially. I’m happy to hear any feedback or ideas on improving the onboarding process. - [Victoria](mailto:victoria@mozilla.com) 
 
 **First Steps**
 
