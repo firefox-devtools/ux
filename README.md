@@ -35,15 +35,14 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The ver
 ## Potential Projects
 
 * Search highlight colors
-* Console separators
-* Reader Mode visual polish, especially for voice panel - old [bug](https://bugzilla.mozilla.org/user_profile?user_id=231285), [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1269521) (not actually DevTools) — @bram can mentor
-* Accessibility improvements — @yzen can help
+* Focus rings and other accessibility improvements — @yzen can help
 * Firefox iOS tasks — Robin
 * [Common Voice](https://github.com/mozilla/voice-web/issues) - (Megan, upcoming)
 
 ## UX Contributors
 
-- @kristin
+- @kristin,
+- @cat
 - @isabelle
 - @Alejandro
 - @Shaiz
