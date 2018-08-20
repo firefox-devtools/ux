@@ -19,18 +19,18 @@ Welcome, and thank you for your interest in contributing to DevTools UX! Our tea
    1. Get ideas from similar UI in DevTools and Firefox. Download [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) to view the latest version of the UI. 
    2. Ask questions in Slack. Developers in panel-specific channels can help with questions about user needs and behaviors. You can also ask your developer friends for ideas!
    3. See what Chrome, Safari, and Edge are doing for similar features. Also check out other development tools, like Atom and Xcode.
-2. Start with a low-fidelity mockup, and post it in the #ux channel for feedback.
+2. Start with a low-fidelity mockup and post screenshots in the relevant github issue and on #ux for feedback.
 3. Make a few iterations based on feedback. (This might not be necessary for small tasks.)
 4. Optional: When you get to the high-fidelity stage, install the Firefox Sketch library. (TBD: public link to library)
-5. Get a final sign-off from Victoria to send your design into development mode!
-6. Bonus: Take screenshots of every stage for your portfolio :)
+5. Optional: To test small changes live, you can [use the Inspector on DevTools](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox). This is a great way to quickly see how e.g. a new color would look across the whole UI without having to mock it up exactly. 
+6. Get a final sign-off from Victoria to send your design into development mode!
+7. Bonus: Take screenshots of every stage for your portfolio :)
 
 ## Implementing your own design changes
 
 Do you know HTML and CSS? If so, you can make your own design a reality! The very friendly engineers of Firefox DevTools can help mentor you through the process of submitting a good patch. 
-* [Contribution guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction#Step_1_Build_Firefox_for_Desktop_or_Android) (Need to make a simpler intro version of this)
-* Inspecting the Inspector
-* Patch submitting and review tips
+* [Firefox Contribution guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction#Step_1_Build_Firefox_for_Desktop_or_Android)
+* [Debugger contribution Guide](https://github.com/devtools-html/debugger.html/blob/master/.github/CONTRIBUTING.md)
 
 ## Potential Projects
 
@@ -46,7 +46,7 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The ver
 
 ## UX Contributors
 
-- @kristin,
+- @kristin
 - @caterina
 - @isabelle
 - @Alejandro
@@ -72,6 +72,3 @@ Project people:
 - @bwinton - DevTools UX Manager
 - @Martin Balfanz - DesignTools PM (Inspector, Style Editor, Accessibility, Canvas, Shader…)
 - @digitarald - DevTools PM (Console, Debugger, Network...)
-
-
- 
