@@ -19,10 +19,14 @@ Welcome, and thank you for your interest in contributing to DevTools UX! Our tea
    1. Get ideas from similar UI in DevTools and Firefox. Download [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) to view the latest version of the UI. When possible, try to reuse already existing colors and other visuals in DevTools/Firefox.
    2. Ask questions in Slack. Developers in panel-specific channels can help with questions about user needs and behaviors. You can also ask your developer friends for ideas!
    3. See what Chrome, Safari, and Edge are doing for similar features. Also check out other development tools, like Atom and Xcode.
-2. Start with a low-fidelity mockup and post screenshots in the relevant github issue and on #ux for feedback.
-3. Make a few iterations based on feedback. (This might not be necessary for small tasks.)
+2. Start working on the design. There are several ways to approach this, depending on the task.
+   * Make a mockup. This could involve getting a sketch file from me, modifying a screenshot, or recreating a mockup if you're interested in helping with our sketch libraries. Great for more involved visual changes that would be too much to code via the other methods. For changes that really need the context of real content, this might not be practical. For more complex UX tasks, a low-fidelity wireframe is a great way to start.
+   * Inspect the toolbox via the special [inception-Inspector](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox) to try out small CSS changes. This can be fraught with trouble due to the usual Inspector problem of no export/persistence features yet (it's in the plans!), but I use this all the time, every day.
+   * Building and running Firefox (instructions below), and trying CSS changes right in the codebase. This can be tricky to get started, but especially useful because then you can seamlessly move on to submitting a patch :).
+3. Post screenshots in the relevant github issue and on #ux for feedback. Make a few iterations. (This might not be necessary for small tasks.)
 4. Optional: When you get to the high-fidelity stage, install the Firefox Sketch library. (TBD: public link to library)
 5. Optional: To test small changes live, you can [use the Inspector on DevTools](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox). This is a great way to quickly see how e.g. a new color would look across the whole UI without having to mock it up exactly. 
+
 6. Get a final sign-off from Victoria to send your design into development mode!
 7. Bonus: Take screenshots of every stage for your portfolio :)
 
@@ -47,20 +51,26 @@ Other info:
 * [Slack: #ux channel](https://devtools-html-slack.herokuapp.com/)
 * [Community hangout over video chat](https://appear.in/devtools-ux) - time TBD
 
-## UX Contributors
+## UX Contributors 
+(Slack usernames)
 
-- @kristin
-- @caterina
+- @caterina, community advisor
+- @fvsch, UX analysis extraordinaire
+- @kristin, UX contributing pioneer
 - @isabelle
 - @Alejandro
 - @Shaiz
 - @arnolem
 - @mario
 - @Yash
-- @fvsch
 - @bastien
 - @Jordan
-- +more, will add you as you join slack
+- @bree
+- @Thiago
+- @Raulinga
+- @Gabiskandar
+
++more, will add you as you join slack
 
 ## Mozilla People
 
@@ -70,6 +80,7 @@ Mentors:
 - Robin - Senior Firefox iOS UX
 - @yzen - Accessibility mentor
 - @erica - Developer mentor
+- @gl - Developer mentor
 
 Project people:
 - @bwinton - DevTools UX Manager
