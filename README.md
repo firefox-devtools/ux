@@ -25,9 +25,8 @@ Welcome, and thank you for your interest in contributing to DevTools UX! Our tea
    * Building and running Firefox (instructions below), and trying CSS changes right in the codebase. This can be tricky to get started, but especially useful because then you can seamlessly move on to submitting a patch :).
 3. Post screenshots in the relevant github issue and on #ux for feedback. Make a few iterations. (This might not be necessary for small tasks.)
 4. Optional: When you get to the high-fidelity stage, install the Firefox Sketch library. (TBD: public link to library)
-5. Optional: To test small changes live, you can [use the Inspector on DevTools](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox). This is a great way to quickly see how e.g. a new color would look across the whole UI without having to mock it up exactly. 
 
-6. Get a final sign-off from Victoria to send your design into development mode!
+5. Get a final sign-off from Victoria to send your design into development mode!
 
 ## Tips 
 * Take screenshots of every stage for your portfolio :)
