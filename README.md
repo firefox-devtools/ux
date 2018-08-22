@@ -2,26 +2,26 @@
 
 Welcome, and thank you for your interest in contributing to DevTools UX! Our team only recently started working with design contributors, so things may be a bit disorganized initially. I’m happy to hear any feedback or ideas on improving the onboarding process. - [Victoria](mailto:victoria@mozilla.com) 
 
-**First Steps**
+## First Steps
 
 1. Join the friendly [Firefox DevTools Slack](https://devtools-html-slack.herokuapp.com/) community! 
-   1. The new #ux channel is a place for us designers to hang out, ask questions, post mockups for feedback, and offer feedback for other designers’ mockups. I’ll be communicating with everyone through this channel.
-   2. Feel free to introduce yourself or talk about general DevTools things in #general
+   * The new #ux channel is a place for us designers to hang out, ask questions, post mockups for feedback, and offer feedback for other designers’ mockups. I’ll be communicating with everyone through this channel.
+   * Feel free to introduce yourself or talk about general DevTools things in #general
 2. Check out the [Firefox design system](https://design.firefox.com/photon/). 
-   1. We will be starting work on a new DevTools-specific design system with a Sketch library very soon! Let me know if you want to help with this.
-3. Sign up for a [GitHub](https://github.com/) account if you don’t already have one. We’ll be organizing all the projects as github issues.
+   * We will be starting work on a new DevTools-specific design system with a Sketch library very soon! Let me know if you want to help with this.
+3. Sign up for a [GitHub](https://github.com/) account if you don’t already have one and contact Victoria to be added to our team. We’ll be organizing all the projects as github issues.
 
-**Projects**
+## Process
 
-(Work is happening to collect and organize all available UX projects. This may take a bit of time at first. If you’re really excited to get started and want one of the first tasks, some will be posted in Slack.)
+(Work is underway to collect and organize available UX projects. If you'd like to get started on one of the first tasks, some will be posted in Slack.)
 
 1. Once you have a task, it’s great to do a little research.  
-   1. Get ideas from similar UI in DevTools and Firefox. Download [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) to view the latest version of the UI. When possible, try to reuse already existing colors and other visuals in DevTools/Firefox.
-   2. Ask questions in Slack. Developers in panel-specific channels can help with questions about user needs and behaviors. You can also ask your developer friends for ideas!
-   3. See what Chrome, Safari, and Edge are doing for similar features. Also check out other development tools, like Atom and Xcode.
+   * Get ideas from similar UI in DevTools and Firefox. Download [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) to view the latest version of the UI. When possible, try to reuse already existing colors and other visuals in DevTools/Firefox.
+   * Ask questions in Slack. Developers in panel-specific channels can help with questions about user needs and behaviors. You can also ask your developer friends for ideas!
+   * See what Chrome, Safari, and Edge are doing for similar features. Also check out other development tools, like Atom and Xcode.
 2. Start working on the design. There are several ways to approach this, depending on the task.
    * Make a mockup. This could involve getting a sketch file from me, modifying a screenshot, or recreating a mockup if you're interested in helping with our sketch libraries. Great for more involved visual changes that would be too much to code via the other methods. For changes that really need the context of real content, this might not be practical. For more complex UX tasks, a low-fidelity wireframe is a great way to start.
-   * Inspect the toolbox via the special [inception-Inspector](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox) to try out small CSS changes. This can be fraught with trouble due to the usual Inspector problem of no export/persistence features yet (it's in the plans!), but I use this all the time, every day.
+   * Inspect the toolbox via the special [inception-Inspector](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox) to try out small CSS changes. This can be fraught with trouble due to the usual Inspector problem of no export/persistence features yet (it's in the plans!), but we use this all the time.
    * Building and running Firefox (instructions below), and trying CSS changes right in the codebase. This can be tricky to get started, but especially useful because then you can seamlessly move on to submitting a patch :).
 3. Post screenshots in the relevant github issue and on #ux for feedback. Make a few iterations. (This might not be necessary for small tasks.)
 4. Optional: When you get to the high-fidelity stage, install the Firefox Sketch library. (TBD: public link to library)
@@ -31,7 +31,7 @@ Welcome, and thank you for your interest in contributing to DevTools UX! Our tea
 
 ## Tips 
 * Take screenshots of every stage for your portfolio :)
-* Re-save icons in Illustrator and follow the [SVG guidelines](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/SVG_Guidelines) for better performance. (A Mozilla person can help if you don't have a copy of Illustrator.)
+* As a final step, icons should be saved/re-saved using Illustrator and follow the [SVG guidelines](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/SVG_Guidelines) for better performance. (A Mozilla person can help if you don't have a copy of Illustrator.)
 
 ## Implementing Your Own Design
 
@@ -43,13 +43,13 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The ver
 
 ## Potential Projects in the Works
 
-* Firefox iOS tasks — Robin
+* Firefox iOS tasks - Robin
 * [Common Voice](https://github.com/mozilla/voice-web/issues) - Megan
 
 ## Communications
 
 * [Slack: #ux channel](https://devtools-html-slack.herokuapp.com/)
-* [Community hangout over video chat](https://appear.in/devtools-ux) - time TBD
+* [Community hangout over video chat](https://appear.in/devtools-ux) - First meeting: Thurs Aug 23 at noon PST
 
 ## UX Contributors 
 (Slack usernames)
@@ -69,8 +69,7 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The ver
 - @Thiago
 - @Raulinga
 - @Gabiskandar
-
-+more, will add you as you join slack
++ more, will add you as you join slack
 
 ## Mozilla People
 
