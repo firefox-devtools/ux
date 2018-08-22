@@ -9,7 +9,7 @@ Welcome, and thank you for your interest in contributing to DevTools UX! Our tea
    2. Feel free to introduce yourself or talk about general DevTools things in #general
 2. Check out the [Firefox design system](https://design.firefox.com/photon/). 
    1. We will be starting work on a new DevTools-specific design system with a Sketch library very soon! Let me know if you want to help with this.
-3. Sign up for a [github](https://github.com/) account if you don’t already have one. We’ll be organizing all the projects as github issues.
+3. Sign up for a [GitHub](https://github.com/) account if you don’t already have one. We’ll be organizing all the projects as github issues.
 
 **Projects**
 
@@ -30,21 +30,18 @@ Welcome, and thank you for your interest in contributing to DevTools UX! Our tea
 6. Get a final sign-off from Victoria to send your design into development mode!
 7. Bonus: Take screenshots of every stage for your portfolio :)
 
-## Implementing your own design changes
+## Implementing Your Own Design
 
 Do you know HTML and CSS? If so, you can make your own design a reality! The very friendly engineers of Firefox DevTools can help mentor you through the process of submitting a good patch. The biggest first step is building Firefox. Here are some guides:
 * [Building Firefox for DevTools Development (Mac/Linux)](https://docs.firefox-dev.tools/getting-started/build.html)
 * [Debugger Contribution Guide](https://github.com/devtools-html/debugger.html/blob/master/.github/CONTRIBUTING.md)
 * [General Firefox Contribution Guide (Windows)](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction#Step_1_Build_Firefox_for_Desktop_or_Android)
-Other info:
 * [Profiles](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Multiple_profiles) for running multiple Firefoxes at the same time 
 
-## Potential Projects
+## Potential Projects in the Works
 
-* Search highlight colors
-* Focus rings and other accessibility improvements — @yzen can help
 * Firefox iOS tasks — Robin
-* [Common Voice](https://github.com/mozilla/voice-web/issues) - (Megan, upcoming)
+* [Common Voice](https://github.com/mozilla/voice-web/issues) - Megan
 
 ## Communications
 
