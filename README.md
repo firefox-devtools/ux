@@ -28,7 +28,10 @@ Welcome, and thank you for your interest in contributing to DevTools UX! Our tea
 5. Optional: To test small changes live, you can [use the Inspector on DevTools](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox). This is a great way to quickly see how e.g. a new color would look across the whole UI without having to mock it up exactly. 
 
 6. Get a final sign-off from Victoria to send your design into development mode!
-7. Bonus: Take screenshots of every stage for your portfolio :)
+
+## Tips 
+* Take screenshots of every stage for your portfolio :)
+* Re-save icons in Illustrator and follow the [SVG guidelines](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/SVG_Guidelines) for better performance. (A Mozilla person can help if you don't have a copy of Illustrator.)
 
 ## Implementing Your Own Design
 
