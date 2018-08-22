@@ -16,7 +16,7 @@ Welcome, and thank you for your interest in contributing to DevTools UX! Our tea
 (Work is happening to collect and organize all available UX projects. This may take a bit of time at first. If you’re really excited to get started and want one of the first tasks, some will be posted in Slack.)
 
 1. Once you have a task, it’s great to do a little research.  
-   1. Get ideas from similar UI in DevTools and Firefox. Download [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) to view the latest version of the UI. 
+   1. Get ideas from similar UI in DevTools and Firefox. Download [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) to view the latest version of the UI. When possible, try to reuse already existing colors and other visuals in DevTools/Firefox.
    2. Ask questions in Slack. Developers in panel-specific channels can help with questions about user needs and behaviors. You can also ask your developer friends for ideas!
    3. See what Chrome, Safari, and Edge are doing for similar features. Also check out other development tools, like Atom and Xcode.
 2. Start with a low-fidelity mockup and post screenshots in the relevant github issue and on #ux for feedback.
