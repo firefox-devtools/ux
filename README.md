@@ -1,33 +1,33 @@
 # Contributing to Firefox DevTools UX
 
-Welcome, and thanks for your interest in contributing to DevTools UX! Our team only recently started working with design contributors, so things may be a bit disorganized initially. I’m happy to hear any feedback or ideas on improving the onboarding process. - [Victoria](mailto:victoria@mozilla.com) 
+Welcome, and thanks for your interest in contributing to DevTools UX! Our team only recently started working with design contributors, so things may be a bit disorganized initially. I’m happy to hear any feedback or ideas on improving the onboarding process. —[Victoria](mailto:victoria@mozilla.com) 
 
 ## First Steps
 
 1. Join the friendly [Firefox DevTools Slack](https://devtools-html-slack.herokuapp.com/) community! 
-   * The new #ux channel is a place for us designers to hang out, ask questions, post mockups for feedback, and offer feedback for other designers’ mockups. I’ll be communicating with everyone through this channel.
+   * The new `#ux` channel is a place for us designers to hang out, ask questions, post mockups for feedback, and offer feedback for other designers’ mockups. I’ll be communicating with everyone through this channel.
    * Feel free to introduce yourself or talk about general DevTools things in #general
 2. Check out the [Firefox design system](https://design.firefox.com/photon/). 
    * We will be starting work on a new DevTools-specific design system with a Sketch library very soon! Let me know if you want to help with this.
-3. Sign up for a [GitHub](https://github.com/) account if you don’t already have one and contact Victoria to be added to our team. We’ll be organizing all the projects as github issues.
+3. Sign up for a [GitHub](https://github.com/) account if you don’t already have one and message @victoria to be added to our team.
 
 ## Process
 
-1. [Claim an issue](https://github.com/devtools-html/ux/issues) by posting in it. Anything tagged with `good-first-issue` is a great place to start, especially if you're new to design! You can also ask on Slack for help choosing a first task.
+1. [Claim a UX issue](https://github.com/devtools-html/ux/issues) by commenting in it. Anything tagged with `good-first-issue` is a great place to start, especially if you're new to design. You can also ask on Slack for help in choosing a first task.
 
 2. Once you have a task, it’s great to do a little research.  
    * Get ideas from similar UI in DevTools and Firefox. Download [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) to view the latest version of the UI. When possible, try to reuse already existing colors and other visuals in DevTools/Firefox.
-   * Ask questions in Slack. Developers in panel-specific channels can help with questions about user needs and behaviors. You can also ask your developer friends for ideas!
+   * Ask questions in Slack. Developers in panel-specific channels can help with questions about user needs and behaviors. You can also ask your own developer friends for ideas!
    * See what Chrome, Safari, and Edge are doing for similar features. Also check out other development tools, like Atom and Xcode.
 
 3.  Start working on the design. There are several ways to approach this, depending on the task.
-   * Make a mockup. This could involve getting a Sketch file from me, modifying a screenshot, or recreating a mockup if you're interested in helping with our Sketch libraries. This is great for more involved visual changes that would be too much to code via the other methods. For small changes that really need to be tested on real content, this might not be practical. For more complex UX tasks, a low-fidelity wireframe is a great way to start.
+   * Make a mockup. This could involve working in an existing Sketch file, modifying a screenshot, or recreating a mockup if you're interested in helping with our Sketch libraries. This is great for more involved visual changes that would be too much to code via the other methods. For small changes that really need to be tested on real content, this might not be practical. For more complex UX tasks, a low-fidelity wireframe is a great way to start.
    * Inspect the toolbox via the [toolbox-inspector](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox) to try out small CSS changes. This can be fraught with trouble due to the usual Inspector problem of no export/persistence features (it's in the plans!), but we use this all the time to quickly visualize a change.
    * Building and running Firefox (instructions below), and trying CSS changes right in the codebase. This can be tricky to get started, but is especially useful because then you can seamlessly move on to submitting a patch :).
 
 4. Post screenshots (with plenty of context) in the relevant github issue and on #ux to get feedback. Make iterations as needed.
 
-5. Get a final sign-off from Victoria to send your design into development mode!
+5. Get a final sign-off from @victoria to send your design into development mode!
 
 ## Tips 
 * Take screenshots of every stage for your portfolio :)
