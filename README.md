@@ -1,6 +1,6 @@
 # Contributing to Firefox DevTools UX
 
-Welcome, and thank you for your interest in contributing to DevTools UX! Our team only recently started working with design contributors, so things may be a bit disorganized initially. I’m happy to hear any feedback or ideas on improving the onboarding process. - [Victoria](mailto:victoria@mozilla.com) 
+Welcome, and thanks for your interest in contributing to DevTools UX! Our team only recently started working with design contributors, so things may be a bit disorganized initially. I’m happy to hear any feedback or ideas on improving the onboarding process. - [Victoria](mailto:victoria@mozilla.com) 
 
 ## First Steps
 
@@ -13,18 +13,19 @@ Welcome, and thank you for your interest in contributing to DevTools UX! Our tea
 
 ## Process
 
-(Work is underway to collect and organize available UX projects. If you'd like to get started on one of the first tasks, some will be posted in Slack.)
+1. [Claim an issue](https://github.com/devtools-html/ux/issues) by posting in it. Anything tagged with `good-first-issue` is a great place to start, especially if you're new to design! You can also ask on Slack for help choosing a first task.
 
-1. Once you have a task, it’s great to do a little research.  
+2. Once you have a task, it’s great to do a little research.  
    * Get ideas from similar UI in DevTools and Firefox. Download [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) to view the latest version of the UI. When possible, try to reuse already existing colors and other visuals in DevTools/Firefox.
    * Ask questions in Slack. Developers in panel-specific channels can help with questions about user needs and behaviors. You can also ask your developer friends for ideas!
    * See what Chrome, Safari, and Edge are doing for similar features. Also check out other development tools, like Atom and Xcode.
-2. Start working on the design. There are several ways to approach this, depending on the task.
-   * Make a mockup. This could involve getting a sketch file from me, modifying a screenshot, or recreating a mockup if you're interested in helping with our sketch libraries. Great for more involved visual changes that would be too much to code via the other methods. For changes that really need the context of real content, this might not be practical. For more complex UX tasks, a low-fidelity wireframe is a great way to start.
-   * Inspect the toolbox via the special [inception-Inspector](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox) to try out small CSS changes. This can be fraught with trouble due to the usual Inspector problem of no export/persistence features yet (it's in the plans!), but we use this all the time.
-   * Building and running Firefox (instructions below), and trying CSS changes right in the codebase. This can be tricky to get started, but especially useful because then you can seamlessly move on to submitting a patch :).
-3. Post screenshots in the relevant github issue and on #ux for feedback. Make a few iterations. (This might not be necessary for small tasks.)
-4. Optional: When you get to the high-fidelity stage, install the Firefox Sketch library. (TBD: public link to library)
+
+3.  Start working on the design. There are several ways to approach this, depending on the task.
+   * Make a mockup. This could involve getting a Sketch file from me, modifying a screenshot, or recreating a mockup if you're interested in helping with our Sketch libraries. This is great for more involved visual changes that would be too much to code via the other methods. For small changes that really need to be tested on real content, this might not be practical. For more complex UX tasks, a low-fidelity wireframe is a great way to start.
+   * Inspect the toolbox via the [toolbox-inspector](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox) to try out small CSS changes. This can be fraught with trouble due to the usual Inspector problem of no export/persistence features (it's in the plans!), but we use this all the time to quickly visualize a change.
+   * Building and running Firefox (instructions below), and trying CSS changes right in the codebase. This can be tricky to get started, but is especially useful because then you can seamlessly move on to submitting a patch :).
+
+4. Post screenshots (with plenty of context) in the relevant github issue and on #ux to get feedback. Make iterations as needed.
 
 5. Get a final sign-off from Victoria to send your design into development mode!
 
@@ -34,7 +35,7 @@ Welcome, and thank you for your interest in contributing to DevTools UX! Our tea
 
 ## Implementing Your Own Design
 
-Do you know HTML and CSS? If so, you can make your own design a reality! The very friendly engineers of Firefox DevTools can help mentor you through the process of submitting a good patch. The biggest first step is building Firefox. Here are some guides:
+Do you know HTML and CSS? If so, you can make your own design a reality! The friendly engineers of Firefox DevTools can help mentor you through the process of submitting a good patch. The biggest first step is building Firefox. Here are some guides:
 * [Building Firefox for DevTools Development (Mac/Linux)](https://docs.firefox-dev.tools/getting-started/build.html)
 * [Debugger Contribution Guide](https://github.com/devtools-html/debugger.html/blob/master/.github/CONTRIBUTING.md)
 * [General Firefox Contribution Guide (Windows)](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction#Step_1_Build_Firefox_for_Desktop_or_Android)
@@ -48,7 +49,8 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The ver
 ## Communications
 
 * [Slack: #ux channel](https://devtools-html-slack.herokuapp.com/)
-* [Community hangout over video chat](https://appear.in/devtools-ux) - First meeting: Thurs Aug 23 at noon PST
+* [Community hangout over video chat](https://appear.in/devtools-ux) 
+   * Meeting #2 (tentative): Thurs Aug 30 at 10am PST
 
 ## UX Contributors 
 (Slack usernames)
@@ -56,12 +58,12 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The ver
 - @caterina, community advisor
 - @fvsch, UX analysis extraordinaire
 - @kristin, UX contributing pioneer
+- @Yash, icon whiz
 - @isabelle
 - @Alejandro
 - @Shaiz
 - @arnolem
 - @mario
-- @Yash
 - @bastien
 - @Jordan
 - @bree
