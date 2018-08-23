@@ -9,7 +9,7 @@ Welcome, and thanks for your interest in contributing to DevTools UX! Our team o
    * Feel free to introduce yourself or talk about general DevTools things in #general
 2. Check out the [Firefox design system](https://design.firefox.com/photon/). 
    * We will be starting work on a new DevTools-specific design system with a Sketch library very soon! Let me know if you want to help with this.
-3. Sign up for a [GitHub](https://github.com/) account if you don’t already have one and message @victoria to be added to our team.
+3. Sign up for a [GitHub](https://github.com/) account if you don’t already have one and message @victoria on Slack to be added to our team.
 
 ## Process
 
