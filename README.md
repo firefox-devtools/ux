@@ -13,7 +13,7 @@ Welcome, and thanks for your interest in contributing to DevTools UX! Our team o
 
 ## Process
 
-1. [Claim a UX issue](https://github.com/devtools-html/ux/issues) by commenting in it. Anything tagged `good-first-issue` is a great place to start, especially if you're new to design. You can also ask on Slack for help in choosing a first task.
+1. [Claim a UX issue](https://github.com/devtools-html/ux/issues) by commenting in it. Anything tagged [`good-first-issue`](https://github.com/devtools-html/ux/labels/good%20first%20issue) is a great place to start, especially if you're new to design. You can also ask on Slack for help in choosing a first task.
 
 2. Once you have a task, it’s great to do a little research.  
    * Get ideas from similar UI in DevTools and Firefox. Download [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) to view the latest version of the UI. When possible, try to reuse already existing colors and other visuals in DevTools/Firefox.
