@@ -1,14 +1,15 @@
 # Contributing to Firefox DevTools UX
 
-Welcome, and thanks for your interest in contributing to DevTools UX! Our team only recently started working with design contributors, so things may be a bit disorganized initially. I’m happy to hear any feedback or ideas on improving the onboarding process. —[Victoria](mailto:victoria@mozilla.com) 
+Welcome, and thanks for your interest in contributing to DevTools UX! Our team only recently started working with design contributors, so things may be a bit disorganized initially. I’m happy to hear any feedback or ideas on improving the onboarding process. —[Victoria](mailto:victoria@mozilla.com)
 
 ## First Steps
 
-1. Join the friendly [Firefox DevTools Slack](https://devtools-html-slack.herokuapp.com/) community! 
+1. Join the friendly [Firefox DevTools Slack](https://devtools-html-slack.herokuapp.com/) community!
    * The new `#ux` channel is a place for us designers to hang out, ask questions, post mockups for feedback, and offer feedback for other designers’ mockups. I’ll be communicating with everyone through this channel.
    * Feel free to introduce yourself or talk about general DevTools things in `#general`
-2. Check out the [Firefox design system](https://design.firefox.com/photon/). 
-   * We will be starting work on a new DevTools-specific design system with a Sketch library very soon! Let me know if you want to help with this.
+2. Check out the [Firefox DevTools design system](https://firefox-dev.tools/photon/) (You can check for issues there too).
+   * This design system is a fork from the main [Firefox design system](https://design.firefox.com/photon/)
+   * We will be starting work on a Sketch library very soon! Let me know if you want to help with this.
 3. Sign up for a [GitHub](https://github.com/) account if you don’t already have one and message @victoria on Slack to be added to our team.
 
 ## Process
@@ -29,7 +30,7 @@ Welcome, and thanks for your interest in contributing to DevTools UX! Our team o
 
 5. Get a final sign-off from @victoria to send your design into development mode!
 
-## Tips 
+## Tips
 * Take screenshots of every stage for your portfolio :)
 * As a final step, icons should be saved/re-saved using Illustrator and follow the [SVG guidelines](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/SVG_Guidelines) for better performance. (A Mozilla person can help if you don't have a copy of Illustrator.)
 
@@ -39,7 +40,7 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The fri
 * [Building Firefox for DevTools Development (Mac/Linux)](https://docs.firefox-dev.tools/getting-started/build.html) — use the steps for [Artifact Builds](https://docs.firefox-dev.tools/getting-started/build.html#building-even-faster-with-artifact-builds) for much faster build times
 * [Debugger Contribution Guide](https://github.com/devtools-html/debugger.html/blob/master/.github/CONTRIBUTING.md)
 * [General Firefox Contribution Guide (Windows)](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction#Step_1_Build_Firefox_for_Desktop_or_Android)
-* [Profiles](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Multiple_profiles) for running multiple Firefoxes at the same time 
+* [Profiles](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Multiple_profiles) for running multiple Firefoxes at the same time
 
 ## Potential Projects in the Works
 
@@ -49,10 +50,10 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The fri
 ## Communications
 
 * [Slack: #ux channel](https://devtools-html-slack.herokuapp.com/)
-* [Community hangout over video chat](https://appear.in/devtools-ux) 
+* [Community hangout over video chat](https://appear.in/devtools-ux)
    * Meeting #2 (tentative): Thurs Aug 30 at 9:30am PST
 
-## UX Contributors 
+## UX Contributors
 (Slack usernames)
 
 - @caterina, community advisor
@@ -76,7 +77,7 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The fri
 
 Mentors:
 - @victoria - Senior DevTools UX
-- @Matt Croud - DevTools UX 
+- @Matt Croud - DevTools UX
 - Robin - Senior Firefox iOS UX
 - @yzen - Accessibility mentor
 - @erica - Developer mentor
