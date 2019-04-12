@@ -1,6 +1,6 @@
 # Contributing to Firefox DevTools UX
 
-Welcome, and thanks for your interest in contributing to DevTools UX! Our team only recently started working with design contributors, so things may be a bit disorganized initially. I’m happy to hear any feedback or ideas on improving the onboarding process. —[Victoria](mailto:victoria@mozilla.com)
+Welcome, and thanks for your interest in contributing to DevTools UX! Our team only recently started working with design contributors, so things may be a bit disorganized at this time. I’m happy to hear any feedback or ideas on improving the onboarding process. —[Victoria](mailto:victoria@mozilla.com)
 
 ## First Steps
 
@@ -10,11 +10,10 @@ Welcome, and thanks for your interest in contributing to DevTools UX! Our team o
 2. Check out the [Firefox DevTools design system](https://firefox-dev.tools/photon/) (You can check for issues there too).
    * This design system is a fork from the main [Firefox design system](https://design.firefox.com/photon/)
    * We've started work on a Sketch library! Let us know if you want to help with this.
-3. Sign up for a [GitHub](https://github.com/) account if you don’t already have one and message @victoria on Slack to be added to our team.
 
 ## Process
 
-1. [Claim a UX issue](https://github.com/devtools-html/ux/issues) by commenting in it. Anything tagged [`good-first-issue`](https://github.com/devtools-html/ux/labels/good%20first%20issue) is a great place to start, especially if you're new to design. Feel free to ask on Slack for help in choosing a first task.
+1. [Claim a UX issue](https://github.com/devtools-html/ux/issues) by commenting in it. Anything tagged [`good-first-issue`](https://github.com/devtools-html/ux/labels/good%20first%20issue) is a great place to start, especially if you're new to design. Feel free to ask on Slack for help in choosing a first task. (Some tasks have some preliminary work done, but may still be available.)
 
 2. Once you have a task, it’s great to do a little research.  
    * Get ideas from similar UI in DevTools and Firefox. Download [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/) to view the latest version of the UI. When possible, try to reuse already existing colors and other visuals in DevTools/Firefox.
@@ -23,7 +22,7 @@ Welcome, and thanks for your interest in contributing to DevTools UX! Our team o
 
 3. Start working on the design. There are several ways to approach this, depending on the task.
    * Make a mockup. This could involve working in an existing Sketch file, modifying a screenshot, or recreating a mockup if you're interested in helping with our Sketch libraries. This is great for more involved visual changes that would be too much to code via the other methods. For small changes that really need to be tested on real content, this might not be practical. For more complex UX tasks, a low-fidelity wireframe is a great way to start.
-   * Inspect the toolbox via the [toolbox-inspector](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox) to try out small CSS changes. This can be fraught with trouble due to the usual Inspector problem of no export/persistence features (it's in the plans!), but we use this all the time to quickly visualize a change.
+   * Inspect the toolbox via the [toolbox-inspector](https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox) to try out small CSS changes. This can be fraught with trouble due to the usual Inspector problem of no persistence features (it's in the plans!), but we use this all the time to quickly visualize a change.
    * Building and running Firefox (instructions below), and trying CSS changes right in the codebase. It can be tricky to get started, but is especially useful because then you can seamlessly move on to submitting a patch :).
 
 4. Post high-res screenshots in the relevant github issue and on #ux to get feedback. Make iterations as needed.
@@ -52,12 +51,9 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The fri
 
 Mentors:
 - @victoria - Senior DevTools UX
-- @Matt Croud - DevTools UX
 - @yzen - Accessibility mentor
-- @erica - Developer mentor
 - @gl - Developer mentor
 
 Project people:
-- @bwinton - DevTools UX Manager
-- @Martin Balfanz - DesignTools PM (Inspector, Style Editor, Accessibility, Canvas, Shader…)
+- @Martin Balfanz - DesignTools PM (Inspector, RDM, Style Editor, Accessibility…)
 - @digitarald - DevTools PM (Console, Debugger, Network…)
