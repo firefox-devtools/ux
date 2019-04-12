@@ -36,7 +36,8 @@ Welcome, and thanks for your interest in contributing to DevTools UX! Our team o
 ## Implementing Your Own Design
 
 Do you know HTML and CSS? If so, you can make your own design a reality! The friendly engineers of Firefox DevTools can help mentor you through the process of submitting a good patch. The biggest first step is building Firefox. Here are some guides:
-* [Building Firefox for DevTools Development (Mac/Linux)](https://docs.firefox-dev.tools/getting-started/build.html) — use the steps for [Artifact Builds](https://docs.firefox-dev.tools/getting-started/build.html#building-even-faster-with-artifact-builds) for much faster build times
+* [Building Firefox for DevTools Development (Mac/Linux)](https://docs.firefox-dev.tools/getting-started/build.html)
+   * Use the steps for [Artifact Builds](https://docs.firefox-dev.tools/getting-started/build.html#building-even-faster-with-artifact-builds) for much faster build times
 * [Debugger Contribution Guide](https://github.com/devtools-html/debugger.html/blob/master/.github/CONTRIBUTING.md)
 * [General Firefox Contribution Guide (Windows)](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Introduction#Step_1_Build_Firefox_for_Desktop_or_Android)
 * [Profiles](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Multiple_profiles) for running multiple Firefoxes at the same time
