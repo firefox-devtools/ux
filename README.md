@@ -45,8 +45,7 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The fri
 ## Communications
 
 * [Slack: #ux channel](https://devtools-html-slack.herokuapp.com/)
-* [Community hangout over video chat](https://appear.in/devtools-ux)
-   * Meeting #3 TBD
+* [Community hangout over video chat](https://appear.in/devtools-ux) (TBD)
 
 ## Mozilla People
 
