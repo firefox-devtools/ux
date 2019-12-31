@@ -1,15 +1,14 @@
 # Contributing to Firefox DevTools UX
 
-Welcome, and thanks for your interest in contributing to DevTools UX! Our team only recently started working with design contributors, so things may be a bit disorganized at this time. I’m happy to hear any feedback or ideas on improving the onboarding process. —[Victoria](mailto:victoria@mozilla.com)
+Welcome, and thanks for your interest in contributing to DevTools UX! The issues in this repository are currently in need of some cleanup/updating; however, if you see something you would like to work on, please get in touch! —Victoria
 
 ## First Steps
 
 1. Join the friendly [Firefox DevTools Slack](https://devtools-html-slack.herokuapp.com/) community!
    * The new `#ux` channel is a place for us designers to hang out, ask questions, post mockups for feedback, and offer feedback for other designers’ mockups. We’ll be communicating with everyone through this channel.
    * Feel free to introduce yourself or talk about general DevTools topics in `#general`
-2. Check out the [Firefox DevTools design system](https://firefox-dev.tools/photon/) (You can check for issues there too).
+2. Check out the [Firefox DevTools design system](https://firefox-dev.tools/photon/).
    * This design system is a fork from the main [Firefox design system](https://design.firefox.com/photon/)
-   * We've started work on a Sketch library! Let us know if you want to help with this.
 
 ## Process
 
@@ -45,7 +44,7 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The fri
 ## Communications
 
 * [Slack: #ux channel](https://devtools-html-slack.herokuapp.com/)
-* [Community hangout over video chat](https://appear.in/devtools-ux) (TBD)
+* [Community video chat](https://appear.in/devtools-ux) (Meetings TBD)
 
 ## Mozilla People
 
