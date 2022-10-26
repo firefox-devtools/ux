@@ -1,5 +1,7 @@
 # Contributing to Firefox DevTools UX
 
+Note: This project is currently paused.
+
 Welcome, and thanks for your interest in contributing to DevTools UX! The issues in this repository are currently in need of some cleanup/updating; however, if you see something you would like to work on, please get in touch! —Victoria
 
 ## First Steps
