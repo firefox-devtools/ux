@@ -1,6 +1,6 @@
-# Contributing to Firefox DevTools UX
+# Firefox DevTools UX
 
-Welcome, and thanks for your interest in contributing to DevTools UX! The issues in this repository are currently in need of some cleanup/updating; however, if you see something you would like to work on, please get in touch! —Victoria
+Note: This project is currently on hold and not monitored by DevTools staff.
 
 ## First Steps
 
@@ -45,14 +45,3 @@ Do you know HTML and CSS? If so, you can make your own design a reality! The fri
 
 * [Slack: #ux channel](https://devtools-html-slack.herokuapp.com/)
 * [Community video chat](https://appear.in/devtools-ux) (Meetings TBD)
-
-## Mozilla People
-
-Mentors:
-- @victoria - Senior DevTools UX
-- @yzen - Accessibility mentor
-- @gl - Developer mentor
-
-Project people:
-- @Martin Balfanz - DesignTools PM (Inspector, RDM, Style Editor, Accessibility…)
-- @digitarald - DevTools PM (Console, Debugger, Network…)
